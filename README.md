@@ -1,4 +1,4 @@
-https://hub.gke.mybinder.org/user/smafzali-bap-hp4h9wfn/tree
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/smafzali-bap-hp4h9wfn/tree)
 
 # Bayesian Analysis with Python (Second edition)
 
